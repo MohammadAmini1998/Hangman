@@ -14,9 +14,11 @@ If the letter is not in the word, the hanged man image will start to appear.
 Guess all the letters before running out of lives to win the game.
 
 Files:
+
 hangman_game.py: This is the main script file that contains the game logic.
 hangman.py: This file contains the function to draw the hanged man.
 words.py: This file contains the list of words that can be chosen for the game.
 
 Requirements
+
 Python 3.x
