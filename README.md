@@ -1,6 +1,4 @@
-Hangman Game in Python
-
-<b style="font-size:20px;">This text is bold and larger in size</b>
+<b style="font-size:40px;">Hangman Game in Python</b>
 
 This is a simple hangman game implemented in Python. The game randomly selects a word from a predefined list and the user has to guess the word by inputting letters one at a time. The user is given a limited number of incorrect guesses before losing the game.
 
